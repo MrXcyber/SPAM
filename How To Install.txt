@@ -1,0 +1,24 @@
+Made By : Mr.Xcyber
+Contact : muhammadefrizal123@gmail.com
+Blog    : www.xcy3r.zone.id
+
+Cara Install / How To Install
+
+Buka Termux
+
+~ketik~
+
+pkg update && pkg upgrade -y
+
+pkg install php -y
+
+pkg install git -y
+
+git clone https://github.com/MrXcyber/SPAM.git
+
+cd SPAM
+
+php run.php
+
+
+Selamat Mencoba ^_^
